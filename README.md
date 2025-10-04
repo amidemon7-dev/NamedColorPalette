@@ -4,6 +4,8 @@
 Минималистичный и расширяемый редактор выбора цвета для Unity Inspector. Позволяет быстро выбирать цвета из палитры, видеть их названия, и работать с UI‑состояниями, темами и визуальными акцентами.
 
 ---
+<img width="277" height="122" alt="image" src="https://github.com/user-attachments/assets/e41741e5-fc20-46f2-a7a9-9efb2548e765" />
+<img width="245" height="392" alt="image" src="https://github.com/user-attachments/assets/b80f8940-58b2-49d1-acb6-71b569a49643" />
 
 ## ✨ Возможности
 
